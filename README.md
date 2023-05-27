@@ -10,6 +10,6 @@ Here is a list of SPAM-reladed keywords that you can use: [https://www.activecam
 
 This plugin hooks into the preprocess\_comment action and checks the comment content for any of the specified keywords. If a keyword is found, the comment submission is halted and an error message is displayed to the user. If no keywords are found, the comment is allowed to be posted as normal.
 
-![Screenshot](assets/wpconfig-screenshot.webp)
+![Screenshot](assets/chrome_WM3HKBBB2Y.webp)
 
-![Screenshot](assets/wpconfig-screenshot.webp)
+![Screenshot](assets/chrome_chXXrnrL6j.webp)
